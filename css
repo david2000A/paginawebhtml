@@ -1,0 +1,36 @@
+/*
+	Color fondo: #632432;
+	Color header: 246355;
+	Color borde: 0F362D;
+	Color iluminado: 369681;
+*/
+
+
+table{
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td{
+	padding: 20px;
+	text-align: center;
+}
+
+thead{
+	background-color: #246;
+	border-bottom: solid 5px #0F362;
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: #dd;
+}
+
+
+
+
+
+
+
