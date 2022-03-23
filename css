@@ -32,5 +32,15 @@ tr:nth-child(even){
 
 
 
+tabla sin borde 
+
+table td {
+    border-style:none;
+    
+  }
+  table{
+   border: none;
+  }
+
 
 
